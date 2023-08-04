@@ -67,7 +67,7 @@ body {
 	z-index: 0;
 }
 
-.picture img {
+img {
 	width: 100%;
 
 }
@@ -90,9 +90,7 @@ body {
 	font-size: 14px;
 }
 
-#gallery {
-	/*	min-height: 100vh; */
-}
+
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -100,9 +98,9 @@ body {
 .gallery .nav {
 	justify-content: center;
 }
-.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+.nav-pills .nav-item .active-tag{
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #653410;
 	border-radius:0 ;
 }
 .nav-pills .nav-link {
@@ -353,4 +351,6 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
+
+
 
