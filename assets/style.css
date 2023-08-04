@@ -351,3 +351,8 @@ input[type="submit"] {
 		width: 80%;
 	}
 }
+
+.info-seo {
+	display: flex;
+	justify-content: space-around;
+}
