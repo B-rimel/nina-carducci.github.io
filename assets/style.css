@@ -67,10 +67,6 @@ body {
 	z-index: 0;
 }
 
-img {
-	width: 100%;
-
-}
 #about-me {
 	flex: 2
 }
@@ -355,4 +351,5 @@ input[type="submit"] {
 .info-seo {
 	display: flex;
 	justify-content: space-around;
+	background-color: #D8D3A8;
 }
